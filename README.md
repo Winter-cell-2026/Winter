@@ -1,92 +1,121 @@
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=Moon+%7C+Software+Developer+in+Progress;Java+%7C+DSA+%7C+Web+%7C+Machine+Learning;Building+Projects+With+Strong+Fundamentals;Preparing+For+Product+Based+Companies" />
+</p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Moon;Engineering+Student;Java+%7C+DSA+%7C+Web+Development;Machine+Learning+Projects;Preparing+for+Placements" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
-I am an Engineering student focused on **building strong fundamentals in programming and problem-solving**.  
-My primary areas are **Java, Data Structures, Web Development, and Machine Learning**.  
-I believe in **clarity over shortcuts** and **projects over certificates**.
+## 🧠 Professional Summary
+I am an **engineering student focused on deep fundamentals**, not shortcuts.  
+My work reflects **problem-solving ability, clean code, and system understanding**.
+
+I actively prepare for **placements and technical interviews** through:
+- Daily **DSA practice in Java**
+- **End-to-end projects** (Web + ML)
+- Clear documentation and disciplined commits
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-## 🔧 Technical Skills
+## ⚙️ Tech Stack (Verified Skills Only)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,mongodb,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,mongodb,python,git,github&theme=dark" />
 </p>
 
-- **Programming:** Java, JavaScript, Python (basic)
-- **Core CS:** DSA, OOPs, DBMS, OS
-- **Web:** HTML, CSS, React, Node.js
-- **Database:** MongoDB, MySQL
-- **Tools:** Git, GitHub, VS Code
+| Category | Skills |
+|-------|-------|
+| Programming | Java, JavaScript, Python |
+| Core CS | DSA, OOPs, DBMS, OS |
+| Web | HTML, CSS, React, Node.js |
+| Database | MongoDB, MySQL |
+| Tools | Git, GitHub, VS Code |
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-## 📌 Featured Projects
+## 🚀 Flagship Projects
 
 ### 🩺 Diabetes Prediction System
-A machine learning-based system to predict diabetes risk using medical data.
-- Applied multiple ML algorithms for comparison
-- Built a web interface for real-time predictions
-- Focused on data preprocessing and model accuracy
+ML-based system to predict diabetes probability from medical parameters.
 
-**Tech Used:** Python, Machine Learning, Flask  
-🔗 Repo: https://github.com/YOUR_USERNAME/Diabetes-Prediction
+- Data preprocessing & feature selection
+- Model comparison (KNN, SVM, Random Forest)
+- Web interface for real-time predictions
 
----
-
-### 💡 SkillSync (Major Project)
-A peer-to-peer skill exchange platform.
-- User authentication and profile management
-- Skill matching and interaction features
-- Structured frontend with scalable backend logic
-
-**Tech Used:** MERN Stack  
-🔗 Repo: https://github.com/YOUR_USERNAME/SkillSync
+**Tech:** Python, ML, Flask  
+🔗 https://github.com/YOUR_USERNAME/Diabetes-Prediction
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+### 💡 SkillSync — Major Project
+Peer-to-peer skill exchange platform with scalable architecture.
 
-## 📚 Learning & Practice
-- Daily **DSA practice in Java**
-- Strong focus on **interview-oriented coding**
-- Consistent improvement through clean commits
+- Authentication & authorization
+- Skill discovery & user profiles
+- Modular frontend and RESTful backend
 
-🔗 DSA Repo: https://github.com/YOUR_USERNAME/DSA-Java
+**Tech:** MERN Stack  
+🔗 https://github.com/YOUR_USERNAME/SkillSync
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-## 📊 GitHub Stats
+## 📘 Data Structures & Algorithms
+Structured Java DSA practice aligned with **coding interviews**.
+
+✔ Arrays  
+✔ Strings  
+✔ Linked List  
+✔ Stack & Queue  
+✔ Recursion & Searching  
+
+🔗 https://github.com/YOUR_USERNAME/DSA-Java
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 ---
 
-## 🐍 Contribution Graph
+## 🧮 Contribution Activity
 ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-## 📫 Connect With Me
+## 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&margin-w=15" />
+</p>
+
+---
+
+## 📫 Contact & Professional Links
 - LinkedIn: https://linkedin.com/in/YOUR_LINK
 - Email: your_email@gmail.com
 
 ---
 
-> *Focused on fundamentals. Consistent in effort. Serious about growth.*
+> **I believe strong fundamentals beat flashy resumes.  
+> Code quality > Quantity. Consistency > Talent.**
+
