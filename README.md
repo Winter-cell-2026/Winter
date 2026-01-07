@@ -48,23 +48,9 @@ ML-based system to predict diabetes probability from medical parameters.
 - Web interface for real-time predictions
 
 **Tech:** Python, ML, Flask  
-🔗 https://github.com/YOUR_USERNAME/Diabetes-Prediction
-
+ 
 ---
-
-### 💡 SkillSync — Major Project
-Peer-to-peer skill exchange platform with scalable architecture.
-
-- Authentication & authorization
-- Skill discovery & user profiles
-- Modular frontend and RESTful backend
-
-**Tech:** MERN Stack  
-🔗 https://github.com/YOUR_USERNAME/SkillSync
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+ >
 
 ## 📘 Data Structures & Algorithms
 Structured Java DSA practice aligned with **coding interviews**.
@@ -74,39 +60,6 @@ Structured Java DSA practice aligned with **coding interviews**.
 ✔ Linked List  
 ✔ Stack & Queue  
 ✔ Recursion & Searching  
-
-🔗 https://github.com/YOUR_USERNAME/DSA-Java
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 🧮 Contribution Activity
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&margin-w=15" />
-</p>
 
 ---
 
