@@ -18,7 +18,7 @@ I actively prepare for **placements and technical interviews** through:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-## ⚙️ Tech Stack (Verified Skills Only)
+## ⚙️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,mongodb,python,git,github&theme=dark" />
 </p>
@@ -50,19 +50,13 @@ ML-based system to predict diabetes probability from medical parameters.
  >
 
 ## 📘 Data Structures & Algorithms
-Structured Java DSA practice aligned with **coding interviews**.
+Structured Java DSA practice 
 
 ✔ Arrays  
 ✔ Strings  
 ✔ Linked List  
 ✔ Stack & Queue  
-✔ Recursion & Searching  
-
----
-
-## 📫 Contact & Professional Links
-- LinkedIn: https://linkedin.com/in/YOUR_LINK
-- Email: your_email@gmail.com
+✔ Recursion & Searching 
 
 ---
 
