@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=Moon+%7C+Software+Developer+in+Progress;Java+%7C+DSA+%7C+Web+%7C+Machine+Learning;Building+Projects+With+Strong+Fundamentals;Preparing+For+Product+Based+Companies" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
